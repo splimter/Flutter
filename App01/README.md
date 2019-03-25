@@ -51,3 +51,5 @@ It contain the style of how the image and title will be displayed.
 * The `itemCount` will define the number of iamge on the ListVeiw.
 
 * The `itemBuilder` will create the image with it border and title by calling the `buildImg` function.
+
+`Image.network` Creates a widget that displays an ImageStream obtained from the network.
